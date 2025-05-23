@@ -2,7 +2,9 @@
 
 Este sistema foi pensado e desenvolvido sob demanda da empresa de logistica, Rota Freitas, com o objetivo de gerenciar de forma eficiente a saída e retorno de acessórios utilizados em viagens de transporte. Desenvolvido em Python, o softwere conta com opções de saída e retorno de acessórios utilizados em viagens de transporte, com registro automatizado e consulta dinâmica dos dados. O sistema foi criado para otimizar o fluxo de controle de itens, garantindo precisão, histórico e comparações entre saída e retorno.
 
+
 📋 Funcionalidades
+
 ✅ Registro de Saída:
 
 Cadastro de informações principais (placa, motorista, operação, rota).
